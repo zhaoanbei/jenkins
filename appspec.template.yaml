@@ -1,7 +1,7 @@
 version: 0.0
 Resources:
   - test: # Replace "MyFunction" with the name of your Lambda function
-      Type: AWS::Lambda::http
+      Type: aws-cn::Lambda::http
       Properties:
         Name: "http" # Specify the name of your Lambda function
         Alias: "beta" # Specify the alias for your Lambda function
