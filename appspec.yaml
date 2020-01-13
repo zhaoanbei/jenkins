@@ -6,4 +6,4 @@ Resources:
         Name: "http" # Specify the name of your Lambda function
         Alias: "beta" # Specify the alias for your Lambda function
         CurrentVersion: "1" # Specify the current version of your Lambda function
-        TargetVersion: "3" # Specify the version of your Lambda function to deploy
+        TargetVersion: "2" # Specify the version of your Lambda function to deploy
